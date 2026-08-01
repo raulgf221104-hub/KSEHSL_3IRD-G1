@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Archivos compilados Java
+*.class
+
+# Carpetas de salida
+out/
+
+# Base de datos local
+*.db
